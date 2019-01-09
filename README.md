@@ -175,9 +175,9 @@ Response 200:
 
 ## 获取当前一期的上一期
 URL:
->GET   /classic/<int:index>/next
+>GET   /classic/<int:index>/previous
 
->demo /classic/5/next
+>demo /classic/5/previous
 
 Parameters:
 * id：id号,必填,必须是正整数
