@@ -551,7 +551,7 @@ Response 200:
 
 URL:
 
->GET  /book/<id>/detail
+>GET  /book/<int:id>/detail
 
 >demo /book/6548683/detail
 
