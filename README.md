@@ -310,7 +310,7 @@ Response 200:
 
 URL:
 
->GET  /book/<int:book_id>/shot_comment
+>GET  /book/<int:book_id>/short_comment
 
 Parameters:
 
